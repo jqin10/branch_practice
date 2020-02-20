@@ -2,6 +2,7 @@
 hi
 
 These are a few of my favorite things:
+- Lilies
 - Daisies
 - Raindrops on roses
 - Whiskers on kittens
