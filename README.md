@@ -1,7 +1,8 @@
 # Favorite Things
+hi
 
 These are a few of my favorite things:
-
+- Daisies
 - Raindrops on roses
 - Whiskers on kittens
 - Bright copper kettles
